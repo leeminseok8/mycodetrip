@@ -57,7 +57,7 @@
 
 - annotate를 이용하여 여러 번 참조를 거치는 방식이 아닌 원하는 filter를 사용한 column을 생성하여 참조
 - order_by("?")를 사용하여 같은 출력에 대한 이미지를 랜덤으로 출력
-- request 값에 따라 다른 API호출하도록 로직 설정
+- request 값에 따라 다른 API호출하도록 로직 구현
 
 <br>
 
