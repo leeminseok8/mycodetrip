@@ -42,8 +42,6 @@
 
 <br>
 
-### 이민석
-
 > Mission 1 | 모델 작성
 
 - 모델링 작성 후 models.py와 diagram 작성
